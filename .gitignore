@@ -1,3 +1,5 @@
 hackathon_2025_templates.zip
 .ipynb_checkpoints*
 data/*
+output/*
+.cursorrules
