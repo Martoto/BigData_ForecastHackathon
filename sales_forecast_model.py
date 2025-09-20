@@ -12,7 +12,7 @@ import os
 import sys
 
 class SalesForecastModel:
-    def __init__(self, data_path="hackathon_2025_templates/"):
+    def __init__(self, data_path="data/"):
         self.data_path = data_path
         self.transactions = None
         self.products = None
